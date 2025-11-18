@@ -12,13 +12,7 @@ A simple Flutter application for scanning, connecting, and printing receipts on 
 * 🖨 Print ESC/POS formatted receipts (80mm)
 * 📄 Includes test receipt print (Cafe demo invoice)
 * 🟢 Real-time connection & printer-ready status
-
----
-
-## 📱 Screenshots
-
-*(Add screenshots here later)*
-
+ 
 ---
 
 ## 🛠 Tech Stack
